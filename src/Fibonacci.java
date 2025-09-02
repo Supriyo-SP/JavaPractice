@@ -5,6 +5,7 @@ public class Fibonacci {
         System.out.println("Enter the terms");
         Scanner in=new Scanner(System.in);
         int n= in.nextInt();
+
         int a=0;
         int b=1;
         System.out.println(a);
@@ -17,4 +18,5 @@ public class Fibonacci {
 
         }
     }
+
 }
